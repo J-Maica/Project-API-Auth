@@ -52,5 +52,4 @@
 ![Screenshot 2024-08-28 191206](https://github.com/user-attachments/assets/8f189f93-d595-43ff-ad96-b2a8594889fc)
 
 
-## License
 This project is for educational purposes and is based on content from the Udemy course "The Complete 2024 Web Development Bootcamp".
