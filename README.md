@@ -1,6 +1,7 @@
 # API Authentication Example with Express and Secrets API
 
 ## Overview
+- ONE OF THE PROJECT IN UDEMY "The Complete 2024 Web Development Bootcamp"
 - This project demonstrates how to interact with an API using various authentication methods, including no authentication, basic authentication, API key authentication, and bearer token authentication. It uses the Secrets API (https://secrets-api.appbrewery.com/) to fetch data.
 
 ## Features
